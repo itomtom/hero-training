@@ -1,0 +1,11 @@
+GET http://localhost:8000/heroes
+###
+POST http://localhost:8000/heroes
+Content-Type: application/json
+
+{
+    "name": "Black Panther"
+}
+
+###
+DELETE http://localhost:8000/heroes/ironman

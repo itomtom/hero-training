@@ -1,0 +1,16 @@
+{
+    "heroes": [
+        {
+            "id": "e1435a61-8083-4b0b-aec5-92427476ecc9",
+            "name": "Iron Man"
+        },
+        {
+            "id": "9384d396-0a63-4c99-a7e8-554414649160",
+            "name": "Spider-Man"
+        },
+        {
+            "id": "4522df27-4716-407c-bffa-91d4351e91e4",
+            "name": "Doctor Strange"
+        }
+    ]
+}
